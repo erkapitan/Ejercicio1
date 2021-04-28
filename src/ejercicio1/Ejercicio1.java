@@ -64,3 +64,38 @@ public class Ejercicio1 {
             
     
 }
+
+
+/* Casos de prueba por equivalencia propuestos 
+
+    Caso 3.1: Datos de entrada: cadena de 5 caracteres. Resultado esperado (Salida): La
+    aplicación no permite el ingreso del dato y muestra un mensaje de error.
+
+    Caso 3.2: Datos de entrada: cadena de 7 caracteres, incluyendo uno o más caracteres no
+    alfabéticos. Resultado esperado (Salida): La aplicación no permite el ingreso del dato y
+    muestra un mensaje de error.
+
+    Caso 3.3: Datos de entrada: cadena de 7 caracteres, solo de caracteres alfabéticos. Resultado
+    esperado (Salida): La aplicación permite el ingreso del dato.
+
+    Caso 3.4: Datos de entrada: cadena de 11 caracteres. Resultado esperado (Salida): La
+    aplicación no permite el ingreso del dato y muestra un mensaje de error.
+
+*/
+
+/* Casos de prueba por Valores Borde.
+
+    Caso 4.1: Datos de entrada: cadena de 6 caracteres, sólo caracteres alfabéticos. Resultado
+    esperado (Salida): La aplicación permite el ingreso del dato.
+
+    Caso 4.2: Datos de entrada: cadena de 10 caracteres, sólo caracteres alfabéticos. Resultado
+    esperado (Salida): La aplicación permite el ingreso del dato.
+
+    Caso 4.3: Datos de entrada: cadena de 6 caracteres, con caracteres no alfabéticos. Resultado
+    esperado (Salida): La aplicación no permite el ingreso del dato y muestra un mensaje de error.
+
+    Caso 4.3: Datos de entrada: cadena de 10 caracteres, con caracteres no alfabéticos.
+    Resultado esperado (Salida): La aplicación no permite el ingreso del dato y muestra un
+    mensaje de error.
+
+*/
