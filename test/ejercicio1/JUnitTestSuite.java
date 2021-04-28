@@ -18,7 +18,7 @@ import org.junit.runners.Suite;
 @RunWith (value = Suite.class)
 @Suite.SuiteClasses ( {
         Ejercicio1ValoresBordeIT.class,
-        Ejercicio1IT.class
+        Ejercicio1PruebasPorEquivalenciasIT.class
         
     }
 )
