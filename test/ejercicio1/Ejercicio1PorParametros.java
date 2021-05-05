@@ -15,7 +15,7 @@ import org.junit.runners.Parameterized.Parameters;
 
 /**
  *
- * @author Javier
+ * @author Javier Bustamante
  */
 
 @RunWith(value=Parameterized.class)
