@@ -25,9 +25,9 @@ public class Ejercicio1IT {
         System.out.println("Caso 3.1: Datos de entrada: cadena de 5 caracteres. Resultado esperado (Salida): La\n" +
 "aplicación no permite el ingreso del dato y muestra un mensaje de error.");
         Ejercicio1 instance = new Ejercicio1();
-       * String expResult = "Cadena incorrecta. La longuitud de la cadena es < 6";
-       * String result = instance.IntroducirCadena("cinco");
-       * assertEquals(expResult, result);
+       String expResult = "Cadena incorrecta. La longuitud de la cadena es < 6";
+        String result = instance.IntroducirCadena("cinco");
+        assertEquals(expResult, result);
     }
     @Test
     public void testCaso3_2() {
