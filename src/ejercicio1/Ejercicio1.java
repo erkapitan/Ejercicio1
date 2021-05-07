@@ -7,7 +7,7 @@ package ejercicio1;
 
 /**
  *
- * @author javier Bustamante
+ * @author javier Bustamante T2
  * @version 1.0
  * caso: Se tiene un campo de texto que solo acepta caracteres alfabéticos. La
 longitud del valor ingresado debe estar entre 6 y 10 caracteres.
